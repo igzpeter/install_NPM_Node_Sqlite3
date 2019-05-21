@@ -1,0 +1,37 @@
+ce placer dans le repertoire là ou il y a les fichier index.js ; sql.js; html,
+
+npm init >>>> json pacquage
+
+npm install --save sqlite3 >>>>> instalation sql3
+
+npm install --save express >> install express (librairie nodeJs)
+
+
+npm install --save cors>>> install cors
+
+npm install body-parser>>>>>>>>>install body parser
+
+npm install file-system --save
+
+npm install jade
+
+creer fichier .js >>>>>>>>touch fichiernode.js
+
+
+
+
+ node fichiernode.js >>>lancer le serveur
+
+
+
+>>>>>entrer dans sqlite3
+
+
+
+
+
+
+
+
+
+
